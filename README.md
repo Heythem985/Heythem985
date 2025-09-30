@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heythem985&label=Profile%20views&color=0e75b6&style=flat" alt="heythem985" /> </p>
 
-- 🔭 I’m currently working on **some computer vision application**
+- 🔭 I’m currently working on **some computer vision applications**
 
 - 🌱 I’m currently learning **Exploring ML and DL concepts through projects , Learning Computer Vision and NLP , Building a foundation in Full-Stack Development**
 
